@@ -27,4 +27,4 @@ Acesso sequencial: para acessar um elemento, é necessário percorrer a lista de
 Consumo de memória adicional devido aos ponteiros.
 
 
-EXEMPLO DE CODIGOS EM PYTHON : https://colab.research.google.com/drive/14dSnVXQvVwJmGhNhdHFh-fJKooF12Ol3
+EXEMPLOS DE LISTAS ENCADEADAS EM PYTHON : https://colab.research.google.com/drive/14dSnVXQvVwJmGhNhdHFh-fJKooF12Ol3
