@@ -1,0 +1,30 @@
+!RESUMO MELHORADO POR DEEPSEEK!
+
+Uma lista encadeada (ou lista ligada) é uma estrutura de dados linear em que os elementos, chamados de nós, são armazenados de forma dinâmica. Cada nó contém dois componentes principais:
+
+Dado: Armazena o valor ou informação do elemento.
+
+Ponteiro: Aponta para o próximo nó da lista.
+
+A principal característica da lista encadeada é que os elementos não estão armazenados em posições contíguas de memória, como em um array. Em vez disso, cada nó é alocado dinamicamente e conectado ao próximo por meio de ponteiros. O último nó da lista aponta para NULL, indicando o fim da lista.
+
+Existem diferentes tipos de listas encadeadas:
+
+Simplesmente encadeada: Cada nó aponta apenas para o próximo.
+
+Duplamente encadeada: Cada nó aponta para o próximo e para o anterior.
+
+Circular: O último nó aponta de volta para o primeiro, formando um ciclo.
+
+Vantagens:
+Inserção e remoção de elementos são eficientes, especialmente no início ou no meio da lista.
+
+Tamanho flexível, pois a memória é alocada dinamicamente.
+
+Desvantagens:
+Acesso sequencial: para acessar um elemento, é necessário percorrer a lista desde o início.
+
+Consumo de memória adicional devido aos ponteiros.
+
+
+EXEMPLO DE CODIGOS EM PYTHON : https://colab.research.google.com/drive/14dSnVXQvVwJmGhNhdHFh-fJKooF12Ol3
