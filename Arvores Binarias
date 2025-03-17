@@ -1,0 +1,36 @@
+!RESUMO MELHORADO POR DEEPSEEK!
+
+Árvores binárias são estruturas de dados hierárquicas e não lineares, onde cada nó pode ter no máximo dois filhos, chamados de filho esquerdo e filho direito. Elas são amplamente utilizadas em computação para organizar dados de forma eficiente, permitindo operações como busca, inserção e remoção com complexidade logarítmica em casos balanceados.
+
+Características principais:
+Nó raiz: O nó superior da árvore, a partir do qual todos os outros nós são acessíveis.
+
+Nós folha: Nós que não têm filhos.
+
+Subárvores: Cada nó pode ser considerado a raiz de uma subárvore, formada por seus descendentes.
+
+Altura: Número de níveis da árvore, contando a partir da raiz até o nó mais distante.
+
+Balanceamento: Uma árvore é balanceada quando a diferença de altura entre as subárvores esquerda e direita de qualquer nó é pequena, garantindo eficiência nas operações.
+
+Tipos comuns de árvores binárias:
+Árvore Binária de Busca (BST): Os nós são organizados de forma que todos os valores à esquerda de um nó são menores, e à direita são maiores.
+
+Árvore Binária Completa: Todos os níveis, exceto possivelmente o último, estão completamente preenchidos.
+
+Árvore Binária Cheia: Cada nó tem exatamente 0 ou 2 filhos.
+
+Árvore AVL e Red-Black: Árvores binárias de busca balanceadas, que garantem operações eficientes mesmo após inserções e remoções.
+
+Aplicações:
+Busca e ordenação: Árvores binárias de busca são usadas para armazenar dados ordenados.
+
+Indexação: Bancos de dados e sistemas de arquivos usam árvores para indexação.
+
+Expressões aritméticas: Árvores podem representar expressões matemáticas para avaliação.
+
+Algoritmos de compressão: Como em árvores de Huffman.
+
+Em resumo, árvores binárias são estruturas versáteis e fundamentais na computação, oferecendo eficiência em diversas operações quando bem implementadas e balanceadas.
+
+Arvores Binarias em python: https://colab.research.google.com/drive/1HkNw2xXD6LbztY66ehpJDyTWZ3xll1Ax#scrollTo=g_3wpcEMSptr
