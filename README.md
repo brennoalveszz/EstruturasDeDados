@@ -1,13 +1,10 @@
 # EstruturasDeDados
 Repositório para estudo de listas encadeadas, listas ordenadas e árvores binárias em Python
+____________________________________________________________________________________________
 
 Lista Encadeada
 Cada nó contém um valor e um ponteiro para o próximo nó.
 📌 Como executar : Salvelista_encadeada.pye cavalgou `python lista_encadeada.py.
-
-Python
-
-Copiar código
 class Node:
     def __init__(self, data): self.data, self.next = data, None
 
@@ -26,10 +23,6 @@ _______________________________________________________________________________
  Lista Ordenada
 Mantenha os elementos sempre organizados.
 📌Como executar :lista_ordenada.pyepython lista_ordenada.py.
-
-Python
-
-Copiar código
 class Node:
     def __init__(self, data): self.data, self.next = data, None
 
@@ -55,10 +48,6 @@ ________________________________________________________________________________
 Árvore Binária
 Cada nó tem no máximo dois filhos (esquerda e direita).
 📌Como executar : Salve como arvore_binaria.pye rode python arvore_binaria.py.
-
-Python
-
-Copiar código
 class Node:
     def __init__(self, data): self.data, self.left, self.right = data, None, None
 
