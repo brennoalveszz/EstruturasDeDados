@@ -67,3 +67,7 @@ class BinaryTree:
         if node: self.inorder(node.left); print(node.data, end=" "); self.inorder(node.right)
 
 tree = BinaryTree(); tree.insert(30); tree.insert(10); tree.insert(20); tree.inorder(tree.root)
+____________________________________________________________________________________________________
+
+FONTE DO ESTUDO : PORTIFÓLIO FUNDAMENTOS DE ESTRUTURAS DE DADOS 
+LINK : file:///C:/Users/BRENNOBARBOSAALVES/Downloads/unidade%204.pdf
